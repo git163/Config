@@ -1,12 +1,10 @@
 {
-  "XmuGym":[
-    "version":{
-    "1.1":{
-    "info":"by ts"
-    },    
-      
-    },
-    "permission":[1.1]
-  ]
-  
+    "XmuGym": {
+        "1.1": {
+        	"info":"Version-1.1"
+        },
+        "permission": [
+            "1.1"
+        ],
+    }
 }
